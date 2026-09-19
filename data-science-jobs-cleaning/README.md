@@ -71,8 +71,8 @@ The dataset contains job postings with information such as:
 
 ## Files - 
 
-- DS_jobs_Data_Cleaning.ipynb
-- DS_jobs_cleaned.csv
+- data_cleaning.ipynb
+- cleaned_transformed_DS_jobs.csv
 
 
 ## Tools - 
